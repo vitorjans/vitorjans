@@ -32,7 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um apppara ajudar rastrearos hábitos.
+O Habits é um app para ajudar rastrearos hábitos.
+
+- [Acesse o projeto finalizado, online](https://vitorjans.github.io/vitorjans)
 
 ## 🔖 Layout
 
